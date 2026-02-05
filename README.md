@@ -1,2 +1,2 @@
 # cloudflare-warp-installer
-warp installer on ubuntu
+Warp installer on ubuntu
